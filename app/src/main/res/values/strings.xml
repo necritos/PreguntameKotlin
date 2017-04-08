@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Preguntame</string>
+    <string name="text_welcome" > Bienvenido\nEs momento que pruebes cuanto sabes sobre Capitales\nResuelve las preguntas , marcando la respuesta que creas que es la correcta.</string>
+</resources>
